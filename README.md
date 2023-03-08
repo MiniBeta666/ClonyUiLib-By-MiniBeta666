@@ -1,6 +1,7 @@
 # ClonyUiLib-By-MiniBeta666
 ## Booting Ui
 ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniBeta666/ClonyUiLib-By-MiniBeta666/main/ClonyUiLib.source", true))()
 ```
 ## Create Window
 ```lua
